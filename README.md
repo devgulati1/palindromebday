@@ -1,4 +1,4 @@
-Palindrome Birht-Day
+Palindrome Birth-Day
 
 This website tells you about that your birth -day is palindrome or not
 
